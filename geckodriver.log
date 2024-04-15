@@ -256,3 +256,16 @@ console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connect
 console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
 console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
 console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+1713212096153	geckodriver	INFO	Listening on 127.0.0.1:65026
+1713212099185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofilep1Uxha"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713212099559	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713212099641	Marionette	INFO	Listening on port 65041
+Read port: 65041
+1713212099858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1713212103971	Marionette	INFO	Stopped listening on port 65041
+Dynamically enable window occlusion 1
