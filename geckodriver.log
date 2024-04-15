@@ -1,0 +1,258 @@
+1712872831332	geckodriver	INFO	Listening on 127.0.0.1:52006
+1712872834373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofilepMbL24"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712872834647	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712872834704	Marionette	INFO	Listening on port 52053
+Read port: 52053
+1712872834878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712872838827	Marionette	INFO	Stopped listening on port 52053
+Dynamically enable window occlusion 1
+1712873221245	geckodriver	INFO	Listening on 127.0.0.1:53498
+1712873224257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofilesgwf55"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712873224605	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712873224677	Marionette	INFO	Listening on port 53520
+Read port: 53520
+1712873224734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712873228269	Marionette	INFO	Stopped listening on port 53520
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+console.error: (new AbortError("IndexedDB: main/password-recipes list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1712874545751	geckodriver	INFO	Listening on 127.0.0.1:58760
+1712874548814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofile1diR67"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712874549092	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712874549149	Marionette	INFO	Listening on port 58783
+Read port: 58783
+1712874549289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712874552353	Marionette	INFO	Stopped listening on port 58783
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+1712874567296	geckodriver	INFO	Listening on 127.0.0.1:58892
+1712874570344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofilemLqZeY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712874570618	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712874570675	Marionette	INFO	Listening on port 58910
+Read port: 58910
+1712874570818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712874573906	Marionette	INFO	Stopped listening on port 58910
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new AbortError("IndexedDB: main/password-recipes list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1712876181185	geckodriver	INFO	Listening on 127.0.0.1:63886
+1712876184229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofileHzCzHl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712876184504	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712876184562	Marionette	INFO	Listening on port 63902
+Read port: 63902
+1712876184701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712876187751	Marionette	INFO	Stopped listening on port 63902
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new AbortError("IndexedDB: main/password-recipes list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1712878128907	geckodriver	INFO	Listening on 127.0.0.1:54233
+1712878131958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofileBYnUZ7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712878132231	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712878132287	Marionette	INFO	Listening on port 54249
+Read port: 54249
+1712878132428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712878135532	Marionette	INFO	Stopped listening on port 54249
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new AbortError("IndexedDB: main/password-recipes list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1712915591414	geckodriver	INFO	Listening on 127.0.0.1:62546
+1712915594440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofileI3oSKj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712915594742	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712915594809	Marionette	INFO	Listening on port 62561
+Read port: 62561
+1712915594952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1712915603016	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1712915603079	Marionette	INFO	Stopped listening on port 62561
+Dynamically enable window occlusion 1
+1712915629567	geckodriver	INFO	Listening on 127.0.0.1:62667
+1712915632626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofileeMhKd0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712915632963	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712915633023	Marionette	INFO	Listening on port 62683
+Read port: 62683
+1712915633174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712915636259	Marionette	INFO	Stopped listening on port 62683
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+1712927795453	geckodriver	INFO	Listening on 127.0.0.1:50440
+1712927798491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofileEzRRGZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712927798766	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712927798822	Marionette	INFO	Listening on port 50456
+Read port: 50456
+1712927798869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712927829332	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1712927837034	Marionette	INFO	Stopped listening on port 50456
+Dynamically enable window occlusion 1
+1712927892713	geckodriver	INFO	Listening on 127.0.0.1:50648
+1712927895753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofile7aC0Mf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712927896027	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712927896084	Marionette	INFO	Listening on port 50667
+Read port: 50667
+1712927896222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712927927612	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1712927934365	Marionette	INFO	Stopped listening on port 50667
+Dynamically enable window occlusion 1
+1712928017950	geckodriver	INFO	Listening on 127.0.0.1:50954
+1712928020995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofile35X7qL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712928021265	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712928021322	Marionette	INFO	Listening on port 50969
+Read port: 50969
+1712928021365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712928051519	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1712928059669	Marionette	INFO	Stopped listening on port 50969
+Dynamically enable window occlusion 1
+1712928084186	geckodriver	INFO	Listening on 127.0.0.1:51126
+1712928087194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofileiCITdQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712928087465	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712928087520	Marionette	INFO	Listening on port 51143
+Read port: 51143
+1712928087660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1712928119155	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1712928125740	Marionette	INFO	Stopped listening on port 51143
+Dynamically enable window occlusion 1
+1712928702289	geckodriver	INFO	Listening on 127.0.0.1:52629
+1712928705358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofile9Fd8xn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712928705633	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712928705689	Marionette	INFO	Listening on port 52643
+Read port: 52643
+1712928705736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1712928707251	Marionette	INFO	Stopped listening on port 52643
+Dynamically enable window occlusion 1
+1712928725848	geckodriver	INFO	Listening on 127.0.0.1:52697
+1712928728906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofileNnmP4K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712928729202	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712928729258	Marionette	INFO	Listening on port 52713
+Read port: 52713
+1712928729400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1712928759670	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1712928764979	Marionette	INFO	Stopped listening on port 52713
+Dynamically enable window occlusion 1
+1712928930619	geckodriver	INFO	Listening on 127.0.0.1:53099
+1712928933647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofilee7b9Th"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712928933925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712928933983	Marionette	INFO	Listening on port 53114
+Read port: 53114
+1712928934123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1712928964522	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1712928969723	Marionette	INFO	Stopped listening on port 53114
+Dynamically enable window occlusion 1
+1712929023710	geckodriver	INFO	Listening on 127.0.0.1:53323
+1712929026773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofileuLKhjm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712929027052	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712929027108	Marionette	INFO	Listening on port 53338
+Read port: 53338
+1712929027247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:570:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:570:17\n"
+1712929048452	Marionette	INFO	Stopped listening on port 53338
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Exiting due to channel error.
+1713209798247	geckodriver	INFO	Listening on 127.0.0.1:54721
+1713209801302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\NATASH~1.DES\\AppData\\Local\\Temp\\rust_mozprofile6pk1jx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713209801744	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713209801834	Marionette	INFO	Listening on port 54744
+Read port: 54744
+1713209802023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1713209806543	Marionette	INFO	Stopped listening on port 54744
+Dynamically enable window occlusion 1
+console.error: (new AbortError("Actor 'LoginManager' destroyed before query 'PasswordManager:findLogins' was resolved", (void 0)))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\History", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Login Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
+console.error: (new Error("Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\\Users\\Natasha.DESKTOP-PR5HP72\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Data", "resource://gre/modules/Sqlite.sys.mjs", 1270))
